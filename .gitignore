@@ -179,3 +179,8 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+
+kagglecatsanddogs_5340.zip
+cats_dogs_data/
+.idea/
